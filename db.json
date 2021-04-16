@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "options": [
+    { "value": 'teste1', "label": 'Teste 1' },
+    { "value": 'teste2', "label": 'Teste 2' },
+    { "value": 'teste3', "label": 'Teste 3' },
+    { "value": 'teste4', "label": 'Teste 4' },
+    { "value": 'teste5', "label": 'Teste 5' },
+    { "value": 'teste6', "label": 'Teste 6' },
+    { "value": 'teste7', "label": 'Teste 7' }
+  ]
 }
