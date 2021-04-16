@@ -1,11 +1,11 @@
 {
   "options": [
-    { "value": 'teste1', "label": 'Teste 1' },
-    { "value": 'teste2', "label": 'Teste 2' },
-    { "value": 'teste3', "label": 'Teste 3' },
-    { "value": 'teste4', "label": 'Teste 4' },
-    { "value": 'teste5', "label": 'Teste 5' },
-    { "value": 'teste6', "label": 'Teste 6' },
-    { "value": 'teste7', "label": 'Teste 7' }
+    { "value": "teste1", "label": "Teste 1" },
+    { "value": "teste2", "label": "Teste 2" },
+    { "value": "teste3", "label": "Teste 3" },
+    { "value": "teste4", "label": "Teste 4" },
+    { "value": "teste5", "label": "Teste 5" },
+    { "value": "teste6", "label": "Teste 6" },
+    { "value": "teste7", "label": "Teste 7" }
   ]
 }
